@@ -2,7 +2,7 @@
 
 
 - 💼 Atualmente trabalho na <a href="https://www.brisanet.com.br">Brisanet Telecomunicações ltda.</a>
-- :books: Atualmente estou aprendendo as tecniologias <b>HTML5, CSS, GIT E GITHUB</b>
+- :books: Atualmente estou aprendendo as tecniologias <b>HTML5, CSS, GIT E GITHUB</b> no curso do <a href="https://rodolfomori.com.br/">DevClub</a>
 - 🎓 Tenho formação na área de Eletrotécnica
 - 🎯 Desejo atuar na área de front-end developer e, futuramente, ser um programador de sucesso
 
@@ -36,8 +36,7 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 <a href="www.linkedin.com/in/erik-gomes-dev">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin-image>
 </a>
 <a href="https://www.facebook.com/erik.gomes.5811">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
