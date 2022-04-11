@@ -1,7 +1,7 @@
 <h2>Olá pessoal! Bem-vindos ao meu perfil.👋</h2>
 
 
-- 💼 Atualmente trabalho na <a href="https://www.brisanet.com.br">Brisanet Telecomunicações ltda.</a>
+- 💼 Atualmente trabalho na <a href="https://www.brisanet.com.br" target=blank>Brisanet Telecomunicações ltda.</a>
 - :books: Atualmente estou aprendendo as tecniologias <b>HTML5, CSS, GIT E GITHUB</b> no curso do <a href="https://rodolfomori.com.br/">DevClub</a>
 - 🎓 Tenho formação na área de Eletrotécnica
 - 🎯 Desejo atuar na área de front-end developer e, futuramente, ser um programador de sucesso
@@ -30,16 +30,16 @@
 <h3>Contato e Redes Sociais:</h3>
 
 <div display=inline>
-<a target="_blank" href="https://api.whatsapp.com/send?phone=5579991354650">
+<a href="https://api.whatsapp.com/send?phone=5579991354650">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt=whatsapp-image>
 </a>
-<a target="_blank" href="mailto:erikgtorres28@gmail.com">
+<a href="mailto:erikgtorres28@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=gmail-image>
 </a>
-<a target="_blank" href="https://www.linkedin.com/in/erik-gomes-dev">
+<a href="https://www.linkedin.com/in/erik-gomes-dev">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin-image>
 </a>
-<a target="_blank" href="https://www.facebook.com/erik.gomes.5811">
+<a href="https://www.facebook.com/erik.gomes.5811">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt=facebook-image>
 </a>
 </div>
