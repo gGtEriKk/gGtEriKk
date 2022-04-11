@@ -1,7 +1,7 @@
 <h2>Olá pessoal! Bem-vindos ao meu perfil.👋</h2>
 
 
-- 💼 Atualmente trabalho na <a href="https://www.brisanet.com.br" target="blank">Brisanet Telecomunicações ltda.</a>
+- 💼 Atualmente trabalho na <a href="https://www.brisanet.com.br" target="_blank">Brisanet Telecomunicações ltda.</a>
 - :books: Atualmente estou aprendendo as tecniologias <b>HTML5, CSS, GIT E GITHUB</b> no curso do <a href="https://rodolfomori.com.br/">DevClub</a>
 - 🎓 Tenho formação na área de Eletrotécnica
 - 🎯 Desejo atuar na área de front-end developer e, futuramente, ser um programador de sucesso
