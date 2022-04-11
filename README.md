@@ -2,7 +2,7 @@
 
 
 - 💼 Atualmente trabalho na <a href="https://www.brisanet.com.br">Brisanet Telecomunicações ltda.</a>
-- :books: Atualmente estou aprendendo as tecniologias <b>HTML5, CSS, GIT E GITHUB</b> no curso do <a href="https://rodolfomori.com.br/">DevClub</a>
+- :books: Atualmente estou aprendendo as tecnologias <b>HTML5, CSS, GIT E GITHUB</b> no curso do <a href="https://rodolfomori.com.br/">DevClub</a>
 - 🎓 Tenho formação na área de Eletrotécnica
 - 🎯 Desejo atuar na área de front-end developer e, futuramente, ser um programador de sucesso
 
