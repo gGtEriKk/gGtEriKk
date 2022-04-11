@@ -30,16 +30,16 @@
 <h3>Contato e Redes Sociais:</h3>
 
 <div display=inline>
-<a href="https://api.whatsapp.com/send?phone=5579991354650">
+<a target=blank href="https://api.whatsapp.com/send?phone=5579991354650">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt=whatsapp-image>
 </a>
-<a mailto="https://erikgtorres28@gmail.com">
+<a target=blank href="https://erikgtorres28@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=gmail-image>
 </a>
-<a href="https://www.linkedin.com/in/erik-gomes-dev">
+<a target=blank href="https://www.linkedin.com/in/erik-gomes-dev">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin-image>
 </a>
-<a href="https://www.facebook.com/erik.gomes.5811">
+<a target=blank href="https://www.facebook.com/erik.gomes.5811">
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt=facebook-image>
 </a>
 </div>
