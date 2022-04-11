@@ -1,16 +1,32 @@
-### Hi there 👋
+<h2>Olá pessoal! Bem-vindos ao meu perfil.👋</h2>
 
-<!--
-**gGtEriKk/gGtEriKk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 💼 Atualmente trabalho na <a href="https://www.brisanet.com.br">Brisanet Telecomunicações ltda.</a>
+- :books: Atualmente estou aprendendo as tecniologias <b>HTML5, CSS, GIT E GITHUB</b>
+- 🎓 Tenho formação na área de Eletrotécnica
+- 🎯 Desejo atuar na área de front-end developer e, futuramente, ser um programador de sucesso
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3> 🚀 Minhas skills:</h3>
+  
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+
+<h3> 🛠️ Ferramentas utilizadas:<h3>
+
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+
+  <br>
+
+<a href="https://github.com/gGtEriKk">
+ <img src="https://github-readme-stats.vercel.app/api?username=gGtEriKk&show_icons=true&theme=dark&line_height=27&icon_color=FF0000&title_color=FF0000&text_color=FFFFFF" alt="**Erik Gomes's** github stats"/>
+</a>
+
+<br>
+
+<h3>Contato e Redes Sociais:</h3>
+
+  
