@@ -25,7 +25,9 @@
 <a href="https://github.com/gGtEriKk">
  <img src="https://github-readme-stats.vercel.app/api?username=gGtEriKk&show_icons=true&theme=dark&line_height=27&icon_color=FF0000&title_color=FF0000&text_color=FFFFFF" alt="**Erik Gomes's** github stats"/>
 </a>
-
+  
+![gif-animado-para-o-github](https://user-images.githubusercontent.com/101311661/163519684-d6173666-dcad-4dc4-9f07-afe74002ce97.gif)
+  
 <br>
 
 <h3>Contato e Redes Sociais:</h3>
