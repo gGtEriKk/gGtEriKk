@@ -1,5 +1,6 @@
 <h2>Olá pessoal! Bem-vindos ao meu perfil.👋</h2>
 
+<img src="/assets/to-github-readme.gif" align="right" width="300px">
 
 - 💼 Atualmente trabalho na <a href="https://www.brisanet.com.br">Brisanet Telecomunicações ltda.</a>
 - :books: Atualmente estou aprendendo as tecnologias <b>HTML5, CSS, GIT E GITHUB</b> no curso do <a href="https://rodolfomori.com.br/">DevClub</a>
@@ -25,8 +26,6 @@
 <a href="https://github.com/gGtEriKk">
  <img src="https://github-readme-stats.vercel.app/api?username=gGtEriKk&show_icons=true&theme=dark&line_height=27&icon_color=FF0000&title_color=FF0000&text_color=FFFFFF" alt="**Erik Gomes's** github stats"/>
 </a>
-
-<img src="https://user-images.githubusercontent.com/101311661163519684-d6173666-dcad-4dc4-9f07-afe74002ce97.gif">
   
 <br>
 
