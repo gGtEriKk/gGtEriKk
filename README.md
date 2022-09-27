@@ -2,7 +2,7 @@
 
 <img src="/assets/to-github-readme.gif" align="right" width="300px">
 
-- 💼 Atualmente trabalho na <a href="https://www.brisanet.com.br">Brisanet Telecomunicações ltda.</a>
+- 💼 Atualmente estou desempregado, estudando e trabalhando como entregador.
 - :books: Atualmente estou aprendendo as tecnologias <b>HTML5, CSS, GIT E GITHUB</b> no curso do <a href="https://rodolfomori.com.br/">DevClub</a>
 - 🎓 Tenho formação na área de Eletrotécnica
 - 🎯 Desejo atuar na área de front-end developer e, futuramente, ser um programador de sucesso
